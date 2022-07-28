@@ -53,7 +53,7 @@
 
 		$ git push -u "url of the repogitory. copy from clone" master 
 		
-		(to commit other branches use specific other than master)
+	(to commit other branches use specific other than master)
     Above command will ask for git credentials. Use gitlab usename and access token. Finally the commit will be visible in the repository.
 
 
