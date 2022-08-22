@@ -55,4 +55,14 @@
 		
     Above command will ask for git credentials. Use gitlab usename and access token. Finally the commit will be visible in the repository.
 
+16. Check branches 
+		$ git branch
 
+17. Push commit in the forked version,
+		$ git push origin master
+		
+18. Add the upstream to the remote,
+		$ git remote add upstream /http url of main repo/
+		
+19. Pull the upstream 
+		$ git pull upstream master
