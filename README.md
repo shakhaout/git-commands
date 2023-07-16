@@ -14,13 +14,13 @@
  
 		$ git config --global user.name "Shakhaout Hossain"
 
-		$ git config --global user.email "shakhaout.hossain@hiperdyne.com"
+		$ git config --global user.email "shakhaout.hossain@gmail.com"
 
 6. To check whether your credentials configured properly,
 
 		$ git config --global --list
 
-7. Create a folder in pc for all git project such as "./GitLab/"
+7. Create a folder in pc for all git project such as "./Gitprojects/"
       Create a subfolder for the project such as "./firstproject/"
 
 9. Open Git bash inside the project folder i.e., ./firstproject/ that is created recently.
