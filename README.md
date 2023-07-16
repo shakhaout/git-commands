@@ -1,4 +1,4 @@
-# gitlab-commands
+# git-commands
 
 1. Download git for your operating system from this link, git-scm.com/downloads
 
