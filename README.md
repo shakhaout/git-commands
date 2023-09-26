@@ -66,3 +66,5 @@
 		
 19. Pull the upstream 
 		$ git pull upstream master
+20. git show origin/upstream url
+                $ git remote -v
