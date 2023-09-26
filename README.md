@@ -55,20 +55,34 @@
 		
     Above command will ask for git credentials. Use gitlab usename and access token. Finally the commit will be visible in the repository.
 
-16. Check branches 
-		$ git branch
+16. Check branches
+    ```
+    $ git branch
+    ```
 
-17. Push commit in the forked version,
-		$ git push origin master
+18. Push commit in the forked version,
+    ```
+    $ git push origin master
+    ```
 		
-18. Add the upstream to the remote,
-		$ git remote add upstream /http url of main repo/
+20. Add the upstream to the remote,
+    ```
+    $ git remote add upstream /http url of main repo/
+    ```
 		
-19. Pull the upstream 
-		$ git pull upstream master
-20. git show origin/upstream url
-                $ git remote -v
-21. Git remote change URL of origin/upstream
-                $ git remote set-url origin http.//.........
-                $ git remote set-url upstream http.//........
-    		$ git --version
+22. Pull the upstream
+    ```
+    $ git pull upstream master
+    ```
+24. git show origin/upstream url
+    ```
+    $ git remote -v
+    ```
+25. Git remote change URL of origin/upstream
+    ```
+    $ git remote set-url origin http.//.........
+    ```
+    ```
+    $ git remote set-url upstream http.//........
+    ```
+
