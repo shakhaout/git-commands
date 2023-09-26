@@ -68,3 +68,7 @@
 		$ git pull upstream master
 20. git show origin/upstream url
                 $ git remote -v
+21. Git remote change URL of origin/upstream
+                $ git remote set-url origin http.//.........
+                $ git remote set-url upstream http.//........
+    
