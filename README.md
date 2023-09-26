@@ -11,10 +11,12 @@
 		$ git --version
 
 5. Config your username and email by following commands,
- 
-		$ git config --global user.name "Shakhaout Hossain"
-
-		$ git config --global user.email "shakhaout.hossain@gmail.com"
+ ```
+$ git config --global user.name "Shakhaout Hossain"
+```
+```
+$ git config --global user.email "shakhaout.hossain@gmail.com"
+```
 
 6. To check whether your credentials configured properly,
 
